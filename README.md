@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning every possible way to bolster the security and contribute in the space of cybersecurity
 - 🌱 I’m currently learning DevSecOps
 - 💞️ I’m looking to collaborate to learn and exchange skills, knowledge
-- 📫 Reach me on linkedin: [Yashesh_Kambli](https://www.linkedin.com/in/yashesh-kambli)
+- 📫 Reach me on linkedin: [TheCyberHash](https://www.linkedin.com/in/yashesh-kambli)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Introvert :-)
 
